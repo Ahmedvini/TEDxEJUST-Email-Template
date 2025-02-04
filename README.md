@@ -48,4 +48,4 @@ This is an **unofficial** template created by a TEDx team member. It's provided 
 
 ## Enjoy!
 
-We hope this template proves useful for your TEDxEJUST event. Feel free to adapt it to your needs and create engaging emails that resonate with your audience. If you have any feedback or suggestions, please share!
+We hope this template proves useful for your TEDx event. Feel free to adapt it to your needs and create engaging emails that resonate with your audience. If you have any feedback or suggestions, please share!
